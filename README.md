@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **E-Commerce**
+- 🔭 I’m currently working on **Data Warehouse Analytics**
 
-- 🌱 I’m currently learning **CSS, React Js**
+- 🌱 I’m currently learning **MS-SQL,Pyspark,Python**
 
-- 💬 Ask me about **Web developement**
+- 💬 Ask me about **Data-Engineering**
 
 - 📫 How to reach me **charan3manoharan@gmail.com**
 
